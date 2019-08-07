@@ -1,0 +1,47 @@
+.store-title {
+    margin: 0 auto;
+    padding-bottom: 100px;
+}
+
+.pricing-title {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.beatstore {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.card-price {
+    font-size: 3rem;
+}
+
+.nav-link {
+    color: #FFF;
+}
+
+ul li .nav-link:hover {
+    opacity: .9;
+   color: #fff !important;
+}
+.navbar-brand {
+    color: #fff !important;
+}
+
+header {
+    height: 100vh;;
+}
+
+.header-button {
+    padding-top: 60vh;
+}
+
+#beats {
+    background-color: brown;
+}
+
+.logo {
+    width: 50px;
+}
